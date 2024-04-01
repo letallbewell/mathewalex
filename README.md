@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mathewalex1908
-- 👀 I’m interested in machine learning, quantum computing, fluid and N-body simulations, and particle physics.
-- 🌱 I’m currently learning how to recast my code archives into Github repositories.
-- 💞️ I’m looking to collaborate on any coding prjects that requires math and physics insights.
-- 📫 How to reach me: you can reach me on email or twitter easily.
+- 👋 Hi, I am @mathewalex1908
+- 👀 I am interested in physics, applied mathematics, and machine learning.
+- 🌱 I am currently converting my code archives into Github repositories.
+- 💞️ I am open to collaborating on coding projects that require math and physics insights.
+- 📫 How to reach me: you can reach me by email or Twitter.
 
 <!---
 mathewalex1908/mathewalex1908 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
